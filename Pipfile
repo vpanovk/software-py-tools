@@ -12,6 +12,8 @@ requests = "*"
 python-dotenv = "*"
 psycopg2-binary = "*"
 jwt = "*"
+xlwt = "*"
+geojson_utils = "*"
 
 [pipenv]
 allow_prereleases = true

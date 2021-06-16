@@ -11,6 +11,7 @@ for any Apps API or IM API user. You only need to know user's email for that.
  based on .zip or device_config.json file.
  * `panel_refresh_alert_tokens.py` - refresh alert API tokens in Panel API.
  * `jwt_token.py` - generate JWT token with any claim set based on a local RSA256 private key.
+ * `prepare_xls.py` - basing on topology and devices list, builds XLS files compatible with Python LE format. Requires user's Api-Key and ID of campus. More info in [the presentation](LE_data_format.pptx).
 
 ## Setting up
 Requirements:
